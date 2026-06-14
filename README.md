@@ -1,16 +1,20 @@
-## Hi there 👋
+# PacketPhreak
 
-<!--
-**PacketPhreak/PacketPhreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Joshua C. McDonald**
+*Infrastructure & Network Analyst*
+**Supreme Commander of All Packets**
 
-Here are some ideas to get you started:
+Infrastructure & network analyst focused on Active Directory, Entra ID, routing, switching, and root-cause troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## whoami
+
+Breaker of broadcast storms. Light in the dark fiber. Enemy of stale DNS records.
+
+## Focus Areas
+
+* Active Directory / Entra ID
+* Routing, switching, VLANs, and network troubleshooting
+* Hybrid identity and authentication issues
+* PowerShell tooling and automation
+* Documentation, escalation notes, and root-cause analysis
+* Real-world infrastructure support when the symptoms make no damn sense
