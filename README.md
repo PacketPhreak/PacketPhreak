@@ -1,7 +1,7 @@
 # PacketPhreak
 
-**Joshua C. McDonald**
-*Infrastructure & Network Analyst*
+**Joshua C. McDonald**<br>
+*Infrastructure & Network Analyst*<br>
 **Supreme Commander of All Packets**
 
 Infrastructure & network analyst focused on Active Directory, Entra ID, routing, switching, and root-cause troubleshooting.
