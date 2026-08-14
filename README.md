@@ -4,13 +4,13 @@
 *Infrastructure & Network Analyst*<br>
 **Supreme Commander of All Packets**
 
-Infrastructure & network analyst focused on Active Directory, Entra ID, routing, switching, and root-cause troubleshooting.
+I’m an infrastructure and network analyst focused on Active Directory, Entra ID, routing, switching, automation, and root-cause troubleshooting.
 
 ## whoami
 
-Breaker of broadcast storms. Light in the dark fiber. Enemy of stale DNS records.
+I break broadcast storms, light the dark fiber, and remain an enemy of stale DNS records.
 
-## Focus Areas
+## What I work on
 
 * Active Directory / Entra ID
 * Routing, switching, VLANs, and network troubleshooting
@@ -18,3 +18,15 @@ Breaker of broadcast storms. Light in the dark fiber. Enemy of stale DNS records
 * PowerShell tooling and automation
 * Documentation, escalation notes, and root-cause analysis
 * Real-world infrastructure support when the symptoms make no damn sense
+
+## PacketPhreak Flippa
+
+I’m building my own independently branded Flipper Zero firmware release with WiFi Dev Board support, Marauder capabilities, BadUSB workflows, and full install and recovery documentation.
+
+**Current build:** `1.0-RC2` — release package verified; physical hardware validation is next.
+
+## Th3 t00lB0x
+
+I’m collecting my free firmware, Windows utilities, PowerShell tools, and diagnostics in **[Th3 t00lB0x](https://joshuacmcdonald.com/toolbox.html)**.
+
+Use security and firmware tools only on hardware, systems, and networks you own or are authorized to test.
